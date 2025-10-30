@@ -1,3 +1,5 @@
 # Drum Patterns 
 
-Create and play drum patterns
+Create and play drum patterns.
+
+
